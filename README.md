@@ -7,19 +7,19 @@
 
 ##### **1.** ````Install a browser extension for managing user scripts (skip if you already have one):````
 
-##### _Chrome:_ ````[Violentmonkey](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag) or [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)````
+##### _Chrome:_ ````Violentmonkey https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag or Tampermonkey https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo````
 
-##### _Firefox:_ ````[Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/), [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo), or [Violentmonkey](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag)````
+##### _Firefox:_ ````Greasemonkey https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/, Tampermonkey https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo, or Violentmonkey https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag````
 
-##### _Safari:_ ````~~[Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)~~````
+##### _Safari:_ ````~~Tampermonkey https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo~~````
 
-##### _Microsoft Edge:_ ````[Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)````
+##### _Microsoft Edge:_ ````Tampermonkey https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo````
 
-##### _Opera:_ ````[Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) or [Violentmonkey](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag)````
+##### _Opera:_ ````Tampermonkey https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo or Violentmonkey https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag````
 
-##### **2.** ````Install Undiscord [Install from OpenUserJS](https://openuserjs.org/scripts/victornpb/Undiscord_-_Delete_all_messages_in_a_Discord_channel_or_DM_(Bulk_deletion)) or [Install from GreasyFork](https://greasyfork.org/en/scripts/406540-undiscord-delete-all-messages-in-a-discord-channel-or-dm-bulk-deletion)````
+##### **2.** ````Install Undiscord Install from OpenUserJS https://openuserjs.org/scripts/victornpb/Undiscord_-_Delete_all_messages_in_a_Discord_channel_or_DM_(Bulk_deletion) or Install from GreasyFork https://greasyfork.org/en/scripts/406540-undiscord-delete-all-messages-in-a-discord-channel-or-dm-bulk-deletion````
 
-##### **3.** ````Open [Discord](https://discord.com/channels/@me) in your browser (Not the App) and go to the Channel/Conversation you want to delete````
+##### **3.** ````Open Discord https://discord.com/channels/@me in your browser (Not the App) and go to the Channel/Conversation you want to delete````
 
 ##### **4.** ````Click the Trash icon that was added in the top right corner````
 
