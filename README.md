@@ -5,7 +5,7 @@
 
 ##### or you can,
 
-**1.** Install a browser extension for managing user scripts (skip if you already have one):
+##### **1.** Install a browser extension for managing user scripts (skip if you already have one):
 
 | Website | Extension |
 | --- | --- |
